@@ -23,7 +23,7 @@ To set up the project locally, you need to have this calculator : Casio Graph Ma
    ```sh
    git clone https://github.com/lock94656/snake.git
    ```
-2. Transfer the code in your Casio.
+2. Upload the code in to your Casio.
 3. Run it.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
